@@ -12,4 +12,6 @@ This is a basic project that displays a calendar of a specific year. <br>
 Is intended to be an useful extention to projects that displays a single month
 
 ## TODO
+Detect automatically the current year
 Add the option to change year
+Use multiple lists of important dates and display each one with a different color
