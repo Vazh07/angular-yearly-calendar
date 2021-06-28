@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=MQ2zu5_oPz4
 https://www.youtube.com/watch?v=Bpyl59_fjvU
 
 ## Description
-This is a basic project that displays a calendar of a specific year
+This is a basic project that displays a calendar of a specific year. <br>
 Is intended to be an useful extention to projects that displays a single month
 
 ## TODO
