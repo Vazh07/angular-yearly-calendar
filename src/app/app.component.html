@@ -1,8 +1,8 @@
 <div class="yearly-calendar">
   <div class="year-number centerd">
-    <button (click)="setYear(false)">Previous</button>
       <h1>{{year.year}}</h1>
-      <button (click)="setYear(true)">Next</button>
+      <button class="year-btn" (click)="setYear(false)">Previous</button>
+      <button class="year-btn" (click)="setYear(true)">Next</button>
   </div>
   <div class="container-calendar">
     <ng-container *ngFor="let month of year.months">
